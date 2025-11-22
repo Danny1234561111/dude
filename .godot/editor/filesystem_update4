@@ -1,0 +1,9 @@
+res://default_bus_layout.tres
+res://scenes/infinity.gd
+res://scripts/menu.gd
+res://scenes/hud.tscn
+res://scripts/hud.gd
+res://scripts/main.gd
+res://scenes/physics_dude.tscn
+res://scripts/fsm_dude.gd
+res://scenes/infinity.tscn
